@@ -22,6 +22,10 @@
 
     <string name="hello_first_fragment">Hello first fragment</string>
     <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="text_name_example">What\'s bro Yorda</string>
+    <string name="text_title_sub">Which one do you want to play?</string>
+    <string name="text_vs_computer">Player Vs Computer</string>
+    <string name="player_vs_player">Player vs Player</string>
 
 
 </resources>
